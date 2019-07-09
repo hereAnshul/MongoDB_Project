@@ -1,5 +1,5 @@
 # MongoDB_Project
-This is a web chat application made by using HTML, CSS, AJAX, and mongodb.
+This is a web chat application which uses long polling and is made using HTML, CSS, AJAX, and mongodb.
 
 To make use of this project one might need:-
   1. XAMPP to provide apache server to run .php files.
